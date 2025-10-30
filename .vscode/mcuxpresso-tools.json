@@ -1,0 +1,15 @@
+{
+  "version": "25.3",
+  "toolchainPath": "C:/Users/andrew.xie/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "version": "25.06.00",
+    "path": "D:\\projects\\rw61x\\rw61x_quec_open",
+    "boardId": "fcm363x",
+    "deviceId": "RW612",
+    "coreId": "cm33_RW612"
+  }
+}
