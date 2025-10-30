@@ -6,8 +6,8 @@
   "multicoreType": "none",
   "projectType": "sdk-freestanding",
   "sdk": {
-    "version": "25.06.00",
     "path": "D:\\projects\\rw61x\\rw61x_quec_open",
+    "version": "25.06.00",
     "boardId": "fcm363x",
     "deviceId": "RW612",
     "coreId": "cm33_RW612"

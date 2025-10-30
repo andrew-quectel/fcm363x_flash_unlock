@@ -19,7 +19,11 @@
       ],
       "gdbServerConfigs": {
         "linkserver": {},
-        "segger": {},
+        "segger": {
+          "device": "FCM363X",
+          "interface": "JTAG",
+          "speed":"10000"
+        },
         "pemicro": {}
       },
       "showDevDebugOutput": "none"
